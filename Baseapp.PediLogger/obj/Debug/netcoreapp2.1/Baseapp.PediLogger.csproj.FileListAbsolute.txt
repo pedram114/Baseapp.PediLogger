@@ -1,0 +1,9 @@
+/Users/pedramgilaniniya/Documents/development/My Projrct/Baseapp.PediLogger/Baseapp.PediLogger/bin/Debug/netcoreapp2.1/Baseapp.PediLogger.deps.json
+/Users/pedramgilaniniya/Documents/development/My Projrct/Baseapp.PediLogger/Baseapp.PediLogger/bin/Debug/netcoreapp2.1/Baseapp.PediLogger.dll
+/Users/pedramgilaniniya/Documents/development/My Projrct/Baseapp.PediLogger/Baseapp.PediLogger/bin/Debug/netcoreapp2.1/Baseapp.PediLogger.pdb
+/Users/pedramgilaniniya/Documents/development/My Projrct/Baseapp.PediLogger/Baseapp.PediLogger/obj/Debug/netcoreapp2.1/Baseapp.PediLogger.csprojResolveAssemblyReference.cache
+/Users/pedramgilaniniya/Documents/development/My Projrct/Baseapp.PediLogger/Baseapp.PediLogger/obj/Debug/netcoreapp2.1/Baseapp.PediLogger.csproj.CoreCompileInputs.cache
+/Users/pedramgilaniniya/Documents/development/My Projrct/Baseapp.PediLogger/Baseapp.PediLogger/obj/Debug/netcoreapp2.1/Baseapp.PediLogger.AssemblyInfoInputs.cache
+/Users/pedramgilaniniya/Documents/development/My Projrct/Baseapp.PediLogger/Baseapp.PediLogger/obj/Debug/netcoreapp2.1/Baseapp.PediLogger.AssemblyInfo.cs
+/Users/pedramgilaniniya/Documents/development/My Projrct/Baseapp.PediLogger/Baseapp.PediLogger/obj/Debug/netcoreapp2.1/Baseapp.PediLogger.dll
+/Users/pedramgilaniniya/Documents/development/My Projrct/Baseapp.PediLogger/Baseapp.PediLogger/obj/Debug/netcoreapp2.1/Baseapp.PediLogger.pdb
